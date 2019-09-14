@@ -92,18 +92,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-10"
   date_end = ""
   description = ""
-  
-
-
-  [[item]]
-  organization = "Compiler Course"
-  organization_url = ""
-  title = "Implementing Compiler Phases: Lexical Analyzer, Syntax Analyzer, Semantic Analyzer, Code Generator"
-  url = ""
-  date_start = "2018-08-10"
-  date_end = ""
-  description = ""
-  
+    
   
   [[item]]
   organization = "Algorithm Design Course"

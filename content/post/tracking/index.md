@@ -19,7 +19,7 @@ Available in: [GitHub](https://github.com/sarehsoltani/RealTimeTrackerSystem.git
 In this project, we intend to implement a system that can accurately determine the location, direction of movement, and locations of moving objects at any given time with using SIM808 Module. In this system, each object is equipped with a GPS module that receives its location every two minutes from the satellite and sends it to the software servers via the GSM modem. Software servers analyze the information after receiving it. In this part of the project, a web application will be developed to process the transmitted data and then store it in a database and finally convert the stored information to visible to users. This allows you to see the speed, direction of movement, and locations of the object on the map.
 <br>
 <br>
-This project is a simple tracking system that uses the same GSM and GPS module that is built 
+This project is a tracking system that uses the same GSM and GPS module that is built 
 into the SIM808 module. whenever you send the “Hi” or “Hello” string to the number of that SIM
  that is already inserted in the GSM Module, you will be able to get a response with the GPS location of the module depending on where it is. <br>
 <br>
