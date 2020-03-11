@@ -74,4 +74,4 @@ CEIT at the [**Amirkabir University of Technology**](https://aut.ac.ir/en).
 I am also a Research Assistant in IoT Research Center of AUT <br>
 My research interests broadly focus on Internet of things, Computer Networks, Cloud Computing, Wireless Networks and Machine Learning.<br>
 I also had the opportunity to be a Teaching Assistant to some of our department's greatest professors on the courses that I was very interested in.<br>
-I was born in Feb 1996. I passed high school and junior high school at NODET (National Organization for Development of Exceptional Talents).
+I passed high school and junior high school at NODET (National Organization for Development of Exceptional Talents).
