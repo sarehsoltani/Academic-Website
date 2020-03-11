@@ -22,11 +22,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Internet of Things
-- Cloud Computing
+- Computer Networks
 - Wireless Networks
-- Smart Applications
+- Cloud Computing
 - Machine Learning
-
+- Embedded Systems
 education:
   courses:
   - course: BSc in Computer Engineering
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 I was recently graduated in Computer Engineering from 
-[**CEIT**](https://ceit.aut.ac.ir/autcms/computer-engineering/en/home)  at the [**Amirkabir University of Technology**](https://aut.ac.ir/en).
+[CEIT](https://ceit.aut.ac.ir/autcms/computer-engineering/en/home)  at the [**Amirkabir University of Technology**](https://aut.ac.ir/en).
 I am also a Research Assistant in **IoT Research Center** of AUT under the supervision of [Dr. Mehdi Rasti](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&ved=2ahUKEwjSndPBkLzkAhUMblAKHR8iByEQFjANegQIBBAB&url=http%3A%2F%2Fwww.aut.ac.ir%2Frasti%2F&usg=AOvVaw0CASjhihYaNHmCV8-urnlu).<br>
 My research interests broadly focus on **Internet of things (IoT)**, **Cloud Computing**, **Wireless Networks** and **Smart Applications**.<br>
 I also had the opportunity to be a **Teaching Assistant** to some of our department's greatest professors on the courses that I was very interested in.<br>
