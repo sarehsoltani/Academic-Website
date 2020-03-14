@@ -5,11 +5,11 @@
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
 color_theme = "dark"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "mr_robot"
+font = "rose"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -63,8 +63,6 @@ phone = "+989164450465"
 address = "Department of Computer Engineering and Information Technology, Amirkabir University of Technology, Hafez St., Tehran, Iran."
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -95,7 +93,7 @@ contact_links = [
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
 map = 1
-map_api_key = ""
+map_api_key = "AIzaSyBTrMqMkNVTpfUkZ1r_YqNRV1S1SWfTjXY"
 latitude = "35.7026388561"
 longitude = "51.4053983784"
 zoom = 15

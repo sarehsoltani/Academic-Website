@@ -18,7 +18,7 @@ organizations:
   url: "https://aut.ac.ir"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include IoT, Computer Networks, Wireless Networks, Cloud Computing and Machine Learning.
 
 interests:
 - Internet of Things
@@ -26,7 +26,7 @@ interests:
 - Wireless Networks
 - Cloud Computing
 - Machine Learning
-- Embedded Systems
+
 education:
   courses:
   - course: BSc in Computer Engineering
@@ -44,6 +44,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/sarehsoltani
+  font-size: 1rem
+  color: 2962ff
 #- icon: twitter
 # icon_pack: fab
 # # link: https://twitter.com/_sareh_
@@ -53,7 +55,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:sare.soltani74@gmail.com"
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
@@ -69,9 +70,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I was recently graduated in Computer Engineering from 
-CEIT at the [**Amirkabir University of Technology**](https://aut.ac.ir/en).
-I am also a Research Assistant in IoT Research Center of AUT <br>
+I was recently graduated from B.Sc. in Computer Engineering from the Amirkabir University of Technology (AUT) in Tehran.
+I am also a Research Assistant in IoT Research Center of AUT.
 My research interests broadly focus on Internet of things, Computer Networks, Cloud Computing, Wireless Networks and Machine Learning.<br>
 I also had the opportunity to be a Teaching Assistant to some of our department's greatest professors on the courses that I was very interested in.<br>
 I passed high school and junior high school at NODET (National Organization for Development of Exceptional Talents).

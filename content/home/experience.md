@@ -55,7 +55,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Digital System Design lab (DSD lab)"
-  company_url = ""
+  company_url = "#"
   location = "Amirkabir University of Technology"
   date_start = "2016-06-16"
   date_end = "2017-08-16"

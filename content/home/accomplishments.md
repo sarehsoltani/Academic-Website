@@ -23,18 +23,20 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Ranked in top 5 Computer Hardware Engineering Students"
   url = ""
-  date_start = "2015-07-15"
-  date_end = "2019-07-15"
+  date_start = "2019-07-15"
+  date_end = ""
   description = ""
+  weight = 40
 
 [[item]]
   organization = "Amirkabir University of Technology"
   organization_url = ""
   title = "**Eligible** to study in two fields simultaneously"
   url = ""
-  date_start = "2015-07-01"
+  date_start = "2019-07-01"
   date_end = ""
   description = ""
+  weight = 30
   
 [[item]]
   organization = "Amirkabir University of Technology"
