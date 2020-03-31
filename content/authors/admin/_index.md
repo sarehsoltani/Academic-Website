@@ -69,9 +69,11 @@ user_groups:
 - Visitors
 ---
 I was recently graduated from B.Sc. in Computer Engineering from the Amirkabir University of Technology (AUT) in Tehran.
-I am also a Research Assistant in IoT Research Center of AUT.
-My research interests broadly focus on Internet of things, Wireless Networks and Machine Learning.<br>
-Specificly , I am curious about Internet of Things approaches and applications for Smart Cities, Smart homes and Healthcare.
+I am also a Research Assistant in IoT Research Center of AUT.<br>
+
+My research interests broadly focus on Internet of things, Wireless Networks and Machine Learning.
+Specificly , I am interested in the applications of Internet of Things for Smart Cities, Smart homes and Healthcare.<br>
+
 I also had the opportunity to be a Teaching Assistant to some of our department's greatest professors on the courses that I was very interested in.<br>
 I passed high school and junior high school at NODET (National Organization for Development of Exceptional Talents).
 
